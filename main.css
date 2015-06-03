@@ -1,0 +1,74 @@
+body {
+  padding: 20px 10px;
+  font-family: Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+  color: black;
+  background-color: grey;
+  max-width: 800px;
+  text-align: center;
+  margin: 0;
+
+
+  
+}
+
+
+.TITLE {
+	font-size: 18px;
+	font-weight: bold;
+	background-color: white;
+	line-height: 1.8;
+	padding: 10px;
+	margin: 25px auto;
+	border-radius: 20px;
+
+
+
+}
+
+
+
+li {
+	list-style-type: none;
+	font-size: 16px;
+	line-height: 1.6;
+	color: black;
+
+}
+
+img {
+	width:40%;
+	height: auto;
+}
+
+.dom{
+	width: 80%;
+	height: auto;
+}
+
+
+
+a {
+	font-weight: bold;
+	color: black;
+	
+}
+
+.DEFINITION {
+	font-size: 14px;
+	line-height: 1.8;
+	background-color: #5F98C5;
+	border-radius: 20px;
+	color: black;
+	padding: 10px;
+	margin: 10px auto;
+
+}
+
+.TIPS{
+	background-color: rgb(194, 60, 91);
+	padding: 10px;
+	margin: 10px auto;
+	border-radius: 20px;
+}
